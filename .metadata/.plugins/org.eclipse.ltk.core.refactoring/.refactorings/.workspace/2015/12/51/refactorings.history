@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;多大的&apos;" deleteContents="false" description="Delete resource &apos;多大的&apos;" element1="/多大的" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1450271198846"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;多大的&apos;" deleteContents="false" description="Delete resource &apos;多大的&apos;" element1="/多大的" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1450271198846"/>&#x0A;<refactoring comment="Delete resource &apos;web&apos;" deleteContents="false" description="Delete resource &apos;web&apos;" element1="/web" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1450400822175"/>&#x0A;<refactoring comment="Delete resource &apos;web1&apos;" deleteContents="false" description="Delete resource &apos;web1&apos;" element1="/web1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1450400923728"/>
 </session>
